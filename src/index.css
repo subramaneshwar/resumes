@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  width: 100vw;
+  overflow-x: hidden;
+}
+h1{
+  font-size: 1.6rem;
+}
+p,h3{
+    font-size: 1em;
+}
+hr{
+  border: 2px black solid;
+}
+
+
